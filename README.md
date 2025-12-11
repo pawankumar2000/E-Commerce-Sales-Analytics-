@@ -47,7 +47,7 @@ Data derived from a public e-commerce transactional dataset similar to the **Oli
 ### 💰 **1. Revenue Trends**
 
 * Total Revenue: ₹16.01M+
-* Peak: April 2018; Drop in Oct 2018
+* Peak: April 2022; Drop in Oct 2025
 
 ### 👤 **2. Customer Behavior**
 
@@ -62,7 +62,7 @@ Data derived from a public e-commerce transactional dataset similar to the **Oli
 
 ### 🛍️ **4. Seller Growth**
 
-* Grew from 219 (Jan 2017) to 1,261 (Aug 2018)
+* Grew from 219 (Jan 2020) to 1,261 (Aug 2021)
 
 ### ⭐ **5. Review Impact**
 
